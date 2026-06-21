@@ -40,7 +40,7 @@ multilingual-health-qa/
 
 | Split | Size | Description |
 |---|---|---|
-| Train | 29,815 | Question-answer pairs for fine-tuning |
+| Train | 29,815 | Question and answer pairs for fine-tuning |
 | Validation | 6,686 | Question and answer pairs for evaluation |
 | Test | 2,618 | Questions only and answers must be generated |
 
