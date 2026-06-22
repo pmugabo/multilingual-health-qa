@@ -3,6 +3,8 @@
 **Competition:** [Zindi — Multilingual Health QA Challenge](https://zindi.africa/competitions/multilingual-health-question-answering-in-low-resource-african-languages)
 **Best Zindi Score:** 0.266956 (Experiment 10)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pmugabo/multilingual-health-qa/blob/main/notebooks/HealthQA_Notebook1_EDA_Baseline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pmugabo/multilingual-health-qa/blob/main/notebooks/HealthQA_Notebook2_Finetuning.ipynb)
 
 ## Project Overview
 
